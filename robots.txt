@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://techlog.io/sitemap.xml
